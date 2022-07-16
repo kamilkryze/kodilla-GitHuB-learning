@@ -1,0 +1,31 @@
+/*Global*/
+
+body {
+    margin-top: 30px;
+    line-height: 1.5;
+    font-family: 'Edu TAS Beginner', cursive;
+}
+
+.wrapper {
+    justify-content: center;
+    max-width: 350px;
+    margin: auto;
+}
+
+.box {
+    justify-content: center;
+}
+
+.container {
+    width: 350px;
+    text-align: left;
+}
+
+h2, h4, .author {
+    text-align: left;
+    margin: auto;
+}
+
+h2, h4 {
+    font-family: 'Cormorant SC', serif;
+}
