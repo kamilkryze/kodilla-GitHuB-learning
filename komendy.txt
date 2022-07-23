@@ -1,0 +1,20 @@
+pc@DESKTOP-LJ8OHUP MINGW64 ~/Desktop/programowanie/kodilla/nauka-gita/learning-git-2 (main)
+$ html-validate index.html
+
+C:\Users\pc\Desktop\programowanie\kodilla\nauka-gita\learning-git-2\index.html
+  14:1   error  Trailing whitespace                                           no-trailing-whitespace
+  32:1   error  Trailing whitespace                                           no-trailing-whitespace
+  51:30  error  Trailing whitespace                                           no-trailing-whitespace
+  58:6   error  Element <p> is implicitly closed by adjacent <div>            no-implicit-close
+  59:10  error  <button> is missing required "type" attribute                 element-required-attributes
+  63:8   error  Mismatched close-tag, expected '</body>' but found '</p>'     close-order
+  64:2   error  Mismatched close-tag, expected '</html>' but found '</body>'  close-order
+  65:2   error  Unexpected close-tag, expected opening tag                    close-order
+
+✖ 8 problems (8 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/no-trailing-whitespace.html
+  https://html-validate.org/rules/no-implicit-close.html
+  https://html-validate.org/rules/element-required-attributes.html
+  https://html-validate.org/rules/close-order.html
